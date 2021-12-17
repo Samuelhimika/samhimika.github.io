@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<head>                         </head>
+<style type="text/css
+<style>
+
+
+    *{
+
+
+    margin:0; padding:0; boxsizing:border-box;
+    }
+   
+    main{
+    width: 100%; height: 85vh;
+    display: flex; justify-content: center;
+    align-items: center;
+color: yellow;
+font-size: 0.5cm;
+    }
+    a{
+color: yellow;
+font-size: 0.5cm;
+margin-left: 3cm;
+text-align: center;
+font-family: 'Times New Roman', Times, serif;
+    }
+
+p
+{
+color:white;
+font-size: 0.5cm;
+padding-right: 1cm;
+margin-right:2cm ;
+margin-inline-start: 0cm;
+-webkit-columns:250px 3 ;
+-moz-columns:250px 3 ;
+-webkit-column-gap: 40px ;
+-moz-column-gap:40px ;
+text-align: justify ;
+
+
+
+
+}
+
+
+
+
+
+h1 {
+
+
+    font-size: 2.5cm;
+    margin-inline-start: 0cm;
+    color: blue;
+text-align: center;
+}
+
+h9
+{
+color: blue;
+
+margin-inline-start: 2cm;
+font-size: 0.4cm;
+
+
+}
+
+
+
+h7
+{
+
+color:white;
+margin-inline-start: 0cm;
+font-size: 0.5cm;}
+
+
+
+
+
+
+
+
+
+
+}
+
+    section h2{
+        color:blue;
+        font-style: bold;
+        font-size: 0.7cm;
+    
+        }
+body footer
+
+{
+
+color:yellow;
+font-size: 0.7cm;
+
+text-align: center;
+}
+
+h4
+{
+
+text-align: center;
+color: skyblue;
+font-size: 0.5cm;
+}
+h5
+{
+padding-inline-start:0cm;
+font-size: 0.4cm;
+color: honeydew;
+
+}
+div class
+{
+color: #0a0525;
+font-size: 12px;
+
+}
+input
+{
+font-size: 0.5cm;
+color: rgb(6, 5, 7);
+width: 20%;
+margin:  5px 0;
+box-sizing: border-box;
+padding-top: 12px;
+color: black;
+font-family: 'Times New Roman', Times, serif;
+
+}
+
+
+h6
+{
+
+font-size: 0.35CM;
+color:greenyellow;
+}
+
+body
+{
+
+padding-inline-start:1cm ;
+padding-right: 1cm;
+padding-left: 1cm;
+
+}
+body
+{
+background-size: 100%;
+background-position: center;
+}
+h3
+{
+font-size: 0.5cm;
+font-family: 'Times New Roman', Times, serif;
+color: mediumspringgreen;
+
+
+
+}
+
+
+
+
+
